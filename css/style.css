@@ -1,0 +1,15 @@
+body {
+    padding-left: 1vh;
+    background-image: linear-gradient(to right, rgba(255,0,0,0.2), rgba(255,0,0,0.5));
+    font-family: monospace;
+
+  }
+
+#title{
+    padding-top: 2vh;
+}
+
+#survey-form {
+    padding-left: 2vw;   
+}
+
