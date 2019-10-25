@@ -12,9 +12,18 @@
     <h1 id="title">Your first pair programming experience!</h1>
     <p id="description">This is our first time pair programming, we can put our impressions here.</p>
     <form id="survey-form">
+
+      <label for="name" id="name-label">Name</label>
       <input type="text" id="name" placeholder="Your name" required>
+      <br>
+
+      <label for="email" id="email-label">Email</label>
       <input type="email" id="email" placeholder="Your e-mail" required>
-      <input type="number" id="number">
+      <br>
+
+      <label for="number" id="number-label">Number</label>
+      <input type="number" id="number" min="1" max="100">
+      <br>
     </form>
 
     <!--
