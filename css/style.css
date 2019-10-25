@@ -13,3 +13,15 @@ body {
     padding-left: 2vw;   
 }
 
+.fields{
+    opacity:0.6 ;
+    width: 100%;
+}
+
+#textfields{
+    width: 400px;
+}
+#textarea{
+    width: 400px;
+}
+
